@@ -24,6 +24,7 @@ The Data consists of App Store games for mobile devices from 2008 - 2019 dataset
 ▶️Q. Can we find any correlation between genre, game size and price?<br />
 
 ## Dashboard:
+Interactive report link: https://app.powerbi.com/view?r=eyJrIjoiMzNkODYwYjAtYmM1OC00ZTJjLThhZGMtZWRjZWUyZDJiODU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9 
 
 ![1](https://github.com/user-attachments/assets/46ee18d3-60ef-49eb-a2a7-3d8bf4a2f867)
 ![2](https://github.com/user-attachments/assets/19befa2c-38e6-4ca6-85e7-39801864c9aa)
