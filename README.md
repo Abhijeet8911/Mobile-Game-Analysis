@@ -25,5 +25,14 @@ The Data consists of App Store games for mobile devices from 2008 - 2019 dataset
 
 ## Dashboard:
 
-## Schema:
+![5](https://github.com/user-attachments/assets/0d98aaff-4655-433a-94ba-4375eab0bf35)
+![4](https://github.com/user-attachments/assets/d749a743-61f0-4903-a71b-d4eab72363ac)
+![3](https://github.com/user-attachments/assets/8a0c90bd-4819-42d1-b718-c6ec2cbf8048)
+![2](https://github.com/user-attachments/assets/19befa2c-38e6-4ca6-85e7-39801864c9aa)
+![1](https://github.com/user-attachments/assets/46ee18d3-60ef-49eb-a2a7-3d8bf4a2f867)
+
+## Schema: 
+![Schemas](https://github.com/user-attachments/assets/df5ac4d6-4148-4bd9-8e4f-dfc80e815094)
+
+
 
